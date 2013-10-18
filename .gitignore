@@ -4,7 +4,10 @@
 *.jar
 *.war
 *.ear
+*.xml
+*.properties
 pom.xml
+/target
 /pom.xml
 ./pom.xml
 /dev/*

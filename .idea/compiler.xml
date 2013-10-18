@@ -25,6 +25,9 @@
         <module name="slr_web" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="slr_web" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
