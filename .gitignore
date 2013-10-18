@@ -5,6 +5,8 @@
 *.war
 *.ear
 pom.xml
+/pom.xml
+./pom.xml
 /dev/*
 /product/*
 
