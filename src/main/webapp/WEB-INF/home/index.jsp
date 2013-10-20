@@ -22,22 +22,23 @@ color:#fff;
 } 
     </style>
 </head>
-<body>
+<body style="background-color:#cccccc">
+
 
 <div class="container">
     <div class="demo-headline">
         <div class="row demo-row">
             <div class="col-md-3">
-                <a href="#fakelink" class="btn btn-block btn-lg btn-primary">浏览资讯</a>
+                <a href="#fakelink" class="btn btn-block btn-lg btn-danger">热点</a>
             </div>
             <div class="col-md-3">
-                <a href="#fakelink" class="btn btn-block btn-lg btn-warning">图片区</a>
+                <a href="#fakelink" class="btn btn-block btn-lg btn-warning">氧吧</a>
             </div>
             <div class="col-md-3">
-                <a href="#fakelink" class="btn btn-block btn-lg btn-default">论坛</a>
+                <a href="#fakelink" class="btn btn-block btn-lg btn-primary">探索</a>
             </div>
             <div class="col-md-3">
-                <a href="#fakelink" class="btn btn-block btn-lg btn-danger">视频</a>
+                <a href="#fakelink" class="btn btn-block btn-lg btn-danger">FM</a>
             </div>
         </div> <!-- /row -->
 
@@ -47,7 +48,7 @@ color:#fff;
             <div class="login-screen">
                 <div class="login-icon">
                     <img src="/images/login/icon.png" alt="Welcome to Mail App" />
-                    <h4>Welcome to <small>ShiLuoRen</small></h4>
+                    <h4>心灵连接 & <small>连接你我</small></h4>
                 </div>
 
                 <div class="login-form">
@@ -67,19 +68,5 @@ color:#fff;
             </div>
         </div>
     </div>
-    
-    
-    
-    
-    <footer class="footer"  style="background-color:#1abc9c">
-      <div sytle="bottom:0" class="container">
-        <div   class="row">
-          <div class="span7">
-            <h3 class="footer-title">拾螺人 by jack_lcz</h3>
-          </div>
-        </div>
-      </div>
-    </footer>
-    
 </body>
 </html>
